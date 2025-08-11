@@ -1,0 +1,14 @@
+## User Story
+
+**As a** [role]  
+**I need** [functionality]  
+**So that** [benefit]
+
+## Acceptance Criteria (Gherkin Format)
+
+**Given** [context]  
+**When** [action]  
+**Then** [expected outcome]
+
+## Labels
+- enhancement / technical debt
